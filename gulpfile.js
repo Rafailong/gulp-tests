@@ -18,3 +18,7 @@ gulp.task('test', function () {
 			}
 		}));
 });
+
+gulp.task('watch-test', function () {
+	gulp.watch(['mocha-test-runner/*.js'], ['test']);
+});

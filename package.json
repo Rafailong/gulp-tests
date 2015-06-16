@@ -12,6 +12,9 @@
   "author": "Lambda Studio",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.1.1",
+    "mocha": "^2.2.5",
+    "should": "^6.0.3"
   }
 }

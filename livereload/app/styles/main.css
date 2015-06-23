@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+ }
+
+#page-wrap {
+  text-align: left;
+  width: 800px;
+  margin: 0 auto;
+  border: solid;
+}
